@@ -1,16 +1,20 @@
-## Hi there 👋
+### 🌱 Actualmente aprendiendo:
+- Desarrollo Android (Kotlin/Java)
+- Arquitectura MVVM
 
-<!--
-**AlejandrodePablo/AlejandrodePablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Tecnologías que uso:
+- **Lenguajes**: Kotlin, Java
+- **Herramientas**: Android Studio, Git, Gradle
 
-Here are some ideas to get you started:
+ ### 📫 Cómo contactarme: 
+- [Email](mailto:depablocorreal@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Herramientas y tecnologías:
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) 
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+### 📊 GitHub Stats:
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-nombre-de-usuario&show_icons=true&theme=radical)
+
