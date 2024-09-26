@@ -16,5 +16,5 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ### 📊 GitHub Stats:
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-nombre-de-usuario&show_icons=true&theme=radical)
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlejandrodePabloio&show_icons=true&theme=radical)
 
